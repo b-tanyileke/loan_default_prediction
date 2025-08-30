@@ -53,6 +53,6 @@ This project applies both traditional machine learning methods to predict loan d
 ## Install Dependencies
 
 ```bash
-git clone https://github.com/b-tanyileke/Machine-Learning/tree/main/Projects/loan_prediction.git
+git clone https://github.com/b-tanyileke/deeplearn_pipeline_optimizer.git
 pip install -r requirements.txt
 ```
